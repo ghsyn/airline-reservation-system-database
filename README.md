@@ -72,11 +72,9 @@
 
 ## 🔹 아키텍처 설계
 
-![항공권_예약_시스템_아키텍처](https://github.com/ghsyn/Airline-Reservation-System-Database-Modeling/assets/94375740/c0f8040d-8ba6-4bd3-8316-c163f86d650e)
 ![항공권_예약_시스템_아키텍처](https://github.com/ghsyn/airline-reservation-system-database/assets/94375740/310ac8ee-41a0-40ef-b298-151611432512)
 
 
 ## 🔹 ER-Diagram
 
-![항공권_예약_시스템_전체ERD](https://github.com/ghsyn/Airline-Reservation-System-Database-Modeling/assets/94375740/f27995fa-8e17-4549-a338-aa3157bad17e)
 ![항공권_예약_시스템_ERD](https://github.com/ghsyn/airline-reservation-system-database/assets/94375740/f710b3cd-7f43-4aa4-8433-97457076fb7f)
